@@ -1,4 +1,4 @@
-# asus-x451cap
+# Asus X451CAP
 ![Asus X451CAP](https://res.cloudinary.com/dqtxbncky/image/upload/v1664355496/desktop_wpebcq.png)
 
 ## Spesifikasi :
