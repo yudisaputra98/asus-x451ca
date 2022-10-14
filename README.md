@@ -1,5 +1,5 @@
-# Asus X451CAP
-![Asus X451CAP](https://res.cloudinary.com/dqtxbncky/image/upload/v1664355496/desktop_wpebcq.png)
+# Asus X451CAP Big Sur 11.6.8
+![Asus X451CAP](https://res.cloudinary.com/dqtxbncky/image/upload/v1665748851/Screenshot_at_Oct_14_19-59-35_jxqph6.png)
 
 ## Spesifikasi :
 - Bootloader Opencore 0.6.3
